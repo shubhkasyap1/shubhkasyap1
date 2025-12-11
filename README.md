@@ -84,13 +84,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/shubhkasyap1/)](https://instagram.com/shubhkasyap1)<!-- [![Hashnode Badge](https://img.shields.io/badge/-Hashnode-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://shubhkasyap1.hashnode.dev/)](https://shubhkasyap1.hashnode.dev/) -->
 
   
-
-###  Github Stats :
-
-![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubhkasyap1&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhkasyap1&theme=flag-india&layout=compact)
-  
 ## My GitHub Streak
 ![github-streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhkasyap1&theme=newyork)
 
