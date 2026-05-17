@@ -1,119 +1,126 @@
-# Hi, I am Shubham! Great to see you here! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px" height="30px">
+# Hi 👋, I'm Shubham Kumar
 
-##  I'm a Student, Programmer and a Developer !!
+### 🚀 MCA Student | Full Stack Developer | AI & ML Enthusiast
 
-- 👯 I’m looking to collaborate with other developers and programmers.
+Passionate about building scalable web applications, solving DSA problems, and exploring AI/ML applications in Finance & Education. Currently pursuing MCA at Uttaranchal University and preparing for software engineering opportunities at top tech companies.
 
-- 🥅 `2025 Goals :` Contribute more to Open Source projects
+---
 
-- 🌱 `Interest :` Data science , Robotics , Coding , Hacking ,Music and Reading Novels
+## 🧑‍💻 About Me
 
+* 🎓 MCA Student at Uttaranchal University
+* 💻 Skilled in **MERN Stack, Next.js, Node.js, Express.js, MongoDB & C++**
+* 🤖 Interested in **AI/ML, FinTech, Data Science & Research**
+* 📚 Currently learning **Advanced DSA, Machine Learning & System Design**
+* 🚀 Building projects like:
 
+  * AI-powered Smart Study Scheduler
+  * Smart Tax Optimization Advisor
+  * Quiz Platform for 300+ Students
+  * Portfolio Dashboard with Admin Panel
+* 🎯 Goal: Crack product-based companies & contribute to Open Source
 
-## 👨🏻‍💻 Coding Profiles
+---
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/shubhkasyap1/)
-[![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-05CC47?style=flat-square&logo=GeeksForGeeks&logoColor=black)](https://auth.geeksforgeeks.org/user/shubhkasyap1)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/shubhkasyap1?hr_r=1)
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/shubhkasyap)
+# 🛠️ Tech Stack
 
-## TOOLS:
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&style=flat-square&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
-![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)<!-- ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean) -->
+### 👨‍💻 Languages
 
+![C](https://img.shields.io/badge/C-Language-blue?style=for-the-badge\&logo=c)
+![C++](https://img.shields.io/badge/C++-Programming-blue?style=for-the-badge\&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge\&logo=javascript)
+![Python](https://img.shields.io/badge/Python-Programming-blue?style=for-the-badge\&logo=python)
+![Java](https://img.shields.io/badge/Java-Programming-red?style=for-the-badge\&logo=openjdk)
 
+### 🌐 Frontend
 
+![React](https://img.shields.io/badge/React.js-Frontend-blue?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-FullStack-black?style=for-the-badge\&logo=nextdotjs)
+![HTML5](https://img.shields.io/badge/HTML5-Markup-orange?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge\&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-UI-blue?style=for-the-badge\&logo=tailwindcss)
 
+### ⚙️ Backend & Database
 
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge\&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-Framework-black?style=for-the-badge\&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?style=for-the-badge\&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge\&logo=postgresql)
 
+### 🧰 Tools & Platforms
 
-  
-  
+![Git](https://img.shields.io/badge/Git-VersionControl-orange?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-CodeHosting-black?style=for-the-badge\&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-Editor-blue?style=for-the-badge\&logo=visualstudiocode)
+![Netlify](https://img.shields.io/badge/Netlify-Hosting-green?style=for-the-badge\&logo=netlify)
+![Vercel](https://img.shields.io/badge/Vercel-Deployment-black?style=for-the-badge\&logo=vercel)
 
-###  Languages and Tools :
+---
 
-  
+# 📌 Featured Projects
 
-<img align="left"  alt="Visual Studio Code"  width="30px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+## 🎯 Quiz Management System
 
-  
+A full-stack quiz platform for schools and colleges with:
 
-<img align="left"  alt="JavaScript"  width="30px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+* Student authentication
+* Admin dashboard
+* CRUD operations
+* Coding editor support
+* Result management system
 
+---
 
+## 🤖 Smart Tax Optimization Advisor
 
-<img align="left"  alt="Git"  width="30px"  src="https://git-scm.com/images/logos/downloads/Git-Icon-Black.png"/>
+AI-powered tax advisory platform using:
 
-  
+* NLP for tax law interpretation
+* Recommendation systems
+* Predictive analytics
+* Financial API integrations
 
-<img align="left"  alt="GitHub"  width="30px"  src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
+---
 
-  
+## 📚 AI Smart Study Scheduler
 
-<img align="left"  alt="Python"  width="40px"  src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png"/>
+An intelligent scheduling platform that helps students manage study plans efficiently using AI-generated recommendations.
 
-  
+---
 
-<img align="left"  alt="C++"  width="30px"  src="https://cdn.freebiesupply.com/logos/large/2x/c-logo-png-transparent.png" />
+# 📈 Coding Profiles
 
-  
+* 💡 LeetCode: [LeetCode Profile](https://leetcode.com/shubhkasyap1/?utm_source=chatgpt.com)
+* 💡 GeeksForGeeks: [GeeksForGeeks Profile](https://auth.geeksforgeeks.org/user/shubhkasyap1?utm_source=chatgpt.com)
+* 💡 HackerRank: [HackerRank Profile](https://www.hackerrank.com/shubhkasyap1?hr_r=1&utm_source=chatgpt.com)
+* 💡 CodeChef: [CodeChef Profile](https://www.codechef.com/users/shubhkasyap?utm_source=chatgpt.com)
 
-<img align="left"  alt="C"  width="40px"  src="https://static.wixstatic.com/media/0cfd43_1831013bcc8540fcba4f087dfa07653c~mv2.png/v1/fill/w_350,h_350,al_c,lg_1,q_85/c.webp" />
+---
 
-  
+# 📫 Connect With Me
 
-<img align="left"  alt="Java"  width="70px"  height  =  "30px"  src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png"/>
+* 📧 Email: **[shubhkasyap1@gmail.com](mailto:shubhkasyap1@gmail.com)**
+* 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/shubhkasyap1/?utm_source=chatgpt.com)
+* 🐦 Twitter/X: [Twitter Profile](https://twitter.com/shubhkasyap1?utm_source=chatgpt.com)
+* 📸 Instagram: [Instagram Profile](https://instagram.com/shubhkasyap1?utm_source=chatgpt.com)
+* 💻 GitHub: [GitHub Profile](https://github.com/shubhkasyap1?utm_source=chatgpt.com)
 
-  
+---
 
-<br />
+# 📊 GitHub Stats
 
-<br />
+```md
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhkasyap1&show_icons=true&theme=tokyonight)
 
-<br />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhkasyap1&layout=compact&theme=tokyonight)
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shubhkasyap1@gmail.com)](mailto:shubhkasyap1@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhkasyap1/)](https://www.linkedin.com/in/shubhkasyap1/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/shubhkasyap1)
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/shubhkasap1)
-[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/Rebelshubh#7163)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/shubhkasyap1/)](https://instagram.com/shubhkasyap1)<!-- [![Hashnode Badge](https://img.shields.io/badge/-Hashnode-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://shubhkasyap1.hashnode.dev/)](https://shubhkasyap1.hashnode.dev/) -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhkasyap1&theme=tokyonight)
+```
 
-  
-## My GitHub Streak
-![github-streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhkasyap1&theme=newyork)
+---
 
-  
+# ✨ Fun Fact
 
-###  Show some ❤️ by starring some of the repositories!
+🎵 I love music, coding late at night, solving DSA problems, and exploring futuristic AI technologies.
 
-  
-
-</div>
-
-  
-  
-
-<br />
-  
-
-[instagram]:  https://www.instagram.com/shubhkasyap1/
-
-[linkedin]:  https://www.linkedin.com/in/shubhkasyap1/
-
-[github]:    https://github.com/shubhkasyap1
-
-## Authors
-
-- [shubhkasyap1](https://github.com/shubhkasyap1)
-
-  
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhkasyap1/)
-[![twitter](https://img.shields.io/twitter/follow/shubhkasyap1?style=social)](https://twitter.com/shubhkasyap1)
-
-  
+--- 
